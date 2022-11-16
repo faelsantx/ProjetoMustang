@@ -29,5 +29,6 @@ DESCRIÇÃO DO PROJETO:
 
 O QUE FOI FEITO:
 
-- Uma pesquisa em alguns sites para aprimorar o artigo que será mostrado no site;
-- 
+- Foi feita uma pesquisa em alguns sites para aprimorar o artigo que será mostrado no site;
+- Foi usado a comunidade do software figma para complementar as inspirações.
+- Montagem do site no software figma, criando componentes e trabalhando com paleta de cores para criar o design do site.
