@@ -22,7 +22,7 @@ REFERÊNCIAS:
 DESCRIÇÃO DO PROJETO:
 
 - Será criado um site no qual terá um artigo sobre o carro Ford Mustang, com a finalidade de contar sua incrível história de mais de 50 anos;
-- Com o objetivo de informar, este artigo como ja dito mostrará sete gerações de um belíssimo esportivo (Ford Mustang) e seus modelos;
+- Com o objetivo de informar, este artigo como ja dito mostrará seis gerações de um belíssimo esportivo (Ford Mustang) e seus modelos;
 - O público alvo a ser atingido serão as pessoas interessadas na história do Mustang, não terá restrinção de idade para este site;
 
 -------------------------
